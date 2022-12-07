@@ -233,9 +233,9 @@ $email = trim(fgets(STDIN));
 echo "[!] Input Nomor : ";
 $phone = trim(fgets(STDIN));
 
-$password = 'Yusron2022!'; // default
+$password = 'Sundala123'; // default
 $referral = 'MUHON97055'; // default
-$name = 'Yusron'; // default
+$name = 'SAYA'; // default
 
 $tiket = new Tiket;
 
